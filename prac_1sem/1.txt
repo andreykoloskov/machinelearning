@@ -1,0 +1,3 @@
+ipython3 notebook
+
+/usr/bin/pycharm
